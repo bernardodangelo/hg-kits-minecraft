@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KitSwitcher.iml" filepath="$PROJECT_DIR$/KitSwitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HGKits.iml" filepath="$PROJECT_DIR$/HGKits.iml" />
     </modules>
   </component>
 </project>

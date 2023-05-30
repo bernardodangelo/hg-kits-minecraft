@@ -1,3 +1,15 @@
-name: Switcher
-version: '1.0'
-main: br.com.bernardo.Plugin
+name: HGKits
+main: br.com.bernardo.HGKits
+version: 1.0
+author: Bernardo
+description: Plugin de Kits de HG
+
+commands:
+  kit:
+    description: Comando para receber kits
+    usage: /kit <nome do kit>
+  kits:
+    description: Mostra os Kits disponíveis
+    usage: /kits
+
+api-version: 1.8-R0.1-SNAPSHOT
