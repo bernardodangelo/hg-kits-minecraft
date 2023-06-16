@@ -1,4 +1,4 @@
-# Soup PvP Plugin for Minecraft 🥣
+# HG Kits Plugin for Minecraft ⚔️
 
 ## Contact 📞
 
